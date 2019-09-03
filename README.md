@@ -5,6 +5,10 @@ Tecnologias utilizadas: Dart, Flutter, SQLite.
 
 Plataformas: Android e iOS.
 
+Projeto feito para a disciplina de Banco de Dados.
+
 Feito por: Filipe Fernandes Ribeiro
 
 <img src="https://github.com/filipeferibeiro/ControleFinanceiro/blob/master/Tela%20Principal.jpeg">
+
+Projeto irá continuar, versão 2 em planejamento de ideias.
